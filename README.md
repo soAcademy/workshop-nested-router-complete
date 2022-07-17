@@ -1,9 +1,9 @@
-# Workshop nested router
+# Workshop nested router complete
 
 ## Setup
 
 1. Create the repository from this template by click at "Use this template".
-2. Named the repository "workshop-nested-router".
+2. Named the repository "workshop-nested-router-complete".
 3. Click at "Create repository from template".
 4. Wait for a moment, after successful created the repository clone it to your local machine by:
 
